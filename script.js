@@ -3,7 +3,7 @@ QUICK START — IMPORTANT
 1) Get a FREE API key from https://openweathermap.org/api
 2) Replace the placeholder below.
 ========================== */
-const OPENWEATHER_API_KEY = "d3ff44b3e3f1a65bf32424aa72c048e4";
+const OPENWEATHER_API_KEY = "fbd526fc1aca5fdaa7851b369497dc8f";
 
 // Basic helpers
 const $ = (sel) => document.querySelector(sel);
